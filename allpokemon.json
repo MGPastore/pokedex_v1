@@ -1,0 +1,1516 @@
+{
+    "pokemon": [
+      {
+        "numero": 1,
+        "nombre": "Bulbasaur",
+        "tipo": ["Planta", "Veneno"],
+        "vida": 45,
+        "defensa": 49,
+        "velocidad": 45,
+        "fuerza": 49,
+        "experiencia": 64
+      },
+      {
+        "numero": 2,
+        "nombre": "Ivysaur",
+        "tipo": ["Planta", "Veneno"],
+        "vida": 60,
+        "defensa": 63,
+        "velocidad": 60,
+        "fuerza": 62,
+        "experiencia": 142
+      },
+      {
+        "numero": 3,
+        "nombre": "Venusaur",
+        "tipo": ["Planta", "Veneno"],
+        "vida": 80,
+        "defensa": 83,
+        "velocidad": 80,
+        "fuerza": 82,
+        "experiencia": 236
+      },
+      {
+        "numero": 4,
+        "nombre": "Charmander",
+        "tipo": ["Fuego"],
+        "vida": 39,
+        "defensa": 43,
+        "velocidad": 65,
+        "fuerza": 52,
+        "experiencia": 62
+      },
+      {
+        "numero": 5,
+        "nombre": "Charmeleon",
+        "tipo": ["Fuego"],
+        "vida": 58,
+        "defensa": 58,
+        "velocidad": 80,
+        "fuerza": 64,
+        "experiencia": 142
+      },
+      {
+        "numero": 6,
+        "nombre": "Charizard",
+        "tipo": ["Fuego", "Volador"],
+        "vida": 78,
+        "defensa": 78,
+        "velocidad": 100,
+        "fuerza": 84,
+        "experiencia": 240
+      },
+      {
+        "numero": 7,
+        "nombre": "Squirtle",
+        "tipo": ["Agua"],
+        "vida": 44,
+        "defensa": 65,
+        "velocidad": 43,
+        "fuerza": 48,
+        "experiencia": 63
+      },
+      {
+        "numero": 8,
+        "nombre": "Wartortle",
+        "tipo": ["Agua"],
+        "vida": 59,
+        "defensa": 80,
+        "velocidad": 58,
+        "fuerza": 63,
+        "experiencia": 142
+      },
+      {
+        "numero": 9,
+        "nombre": "Blastoise",
+        "tipo": ["Agua"],
+        "vida": 79,
+        "defensa": 100,
+        "velocidad": 78,
+        "fuerza": 83,
+        "experiencia": 239
+      },
+      {
+        "numero": 10,
+        "nombre": "Caterpie",
+        "tipo": ["Bicho"],
+        "vida": 45,
+        "defensa": 35,
+        "velocidad": 45,
+        "fuerza": 30,
+        "experiencia": 39
+      },
+      {
+        "numero": 11,
+        "nombre": "Metapod",
+        "tipo": ["Bicho"],
+        "vida": 50,
+        "defensa": 55,
+        "velocidad": 30,
+        "fuerza": 20,
+        "experiencia": 72
+      },
+      {
+        "numero": 12,
+        "nombre": "Butterfree",
+        "tipo": ["Bicho", "Volador"],
+        "vida": 60,
+        "defensa": 50,
+        "velocidad": 70,
+        "fuerza": 45,
+        "experiencia": 178
+      },
+      {
+        "numero": 13,
+        "nombre": "Weedle",
+        "tipo": ["Bicho", "Veneno"],
+        "vida": 40,
+        "defensa": 30,
+        "velocidad": 50,
+        "fuerza": 35,
+        "experiencia": 39
+      },
+      {
+        "numero": 14,
+        "nombre": "Kakuna",
+        "tipo": ["Bicho", "Veneno"],
+        "vida": 45,
+        "defensa": 50,
+        "velocidad": 35,
+        "fuerza": 25,
+        "experiencia": 72
+      },
+      {
+        "numero": 15,
+        "nombre": "Beedrill",
+        "tipo": ["Bicho", "Veneno"],
+        "vida": 65,
+        "defensa": 40,
+        "velocidad": 75,
+        "fuerza": 80,
+        "experiencia": 178
+      },
+      {
+        "numero": 16,
+        "nombre": "Pidgey",
+        "tipo": ["Normal", "Volador"],
+        "vida": 40,
+        "defensa": 40,
+        "velocidad": 56,
+        "fuerza": 45,
+        "experiencia": 50
+      },
+      {
+        "numero": 17,
+        "nombre": "Pidgeotto",
+        "tipo": ["Normal", "Volador"],
+        "vida": 63,
+        "defensa": 55,
+        "velocidad": 71,
+        "fuerza": 60,
+        "experiencia": 122
+      },
+      {
+        "numero": 18,
+        "nombre": "Pidgeot",
+        "tipo": ["Normal", "Volador"],
+        "vida": 83,
+        "defensa": 75,
+        "velocidad": 101,
+        "fuerza": 80,
+        "experiencia": 216
+      },
+      {
+        "numero": 19,
+        "nombre": "Rattata",
+        "tipo": ["Normal"],
+        "vida": 30,
+        "defensa": 35,
+        "velocidad": 72,
+        "fuerza": 56,
+        "experiencia": 51
+      },
+      {
+        "numero": 20,
+        "nombre": "Raticate",
+        "tipo": ["Normal"],
+        "vida": 55,
+        "defensa": 60,
+        "velocidad": 97,
+        "fuerza": 81,
+        "experiencia": 145
+      },
+      {
+        "numero": 21,
+        "nombre": "Spearow",
+        "tipo": ["Normal", "Volador"],
+        "vida": 40,
+        "defensa": 30,
+        "velocidad": 70,
+        "fuerza": 60,
+        "experiencia": 52
+      },
+      {
+        "numero": 22,
+        "nombre": "Fearow",
+        "tipo": ["Normal", "Volador"],
+        "vida": 65,
+        "defensa": 65,
+        "velocidad": 100,
+        "fuerza": 90,
+        "experiencia": 155
+      },
+      {
+        "numero": 23,
+        "nombre": "Ekans",
+        "tipo": ["Veneno"],
+        "vida": 35,
+        "defensa": 44,
+        "velocidad": 55,
+        "fuerza": 60,
+        "experiencia": 58
+      },
+      {
+        "numero": 24,
+        "nombre": "Arbok",
+        "tipo": ["Veneno"],
+        "vida": 60,
+        "defensa": 69,
+        "velocidad": 80,
+        "fuerza": 85,
+        "experiencia": 153
+      },
+      {
+        "numero": 25,
+        "nombre": "Pikachu",
+        "tipo": ["Eléctrico"],
+        "vida": 35,
+        "defensa": 40,
+        "velocidad": 90,
+        "fuerza": 55,
+        "experiencia": 112
+      },
+      {
+        "numero": 26,
+        "nombre": "Raichu",
+        "tipo": ["Eléctrico"],
+        "vida": 60,
+        "defensa": 55,
+        "velocidad": 110,
+        "fuerza": 90,
+        "experiencia": 218
+      },
+      {
+        "numero": 27,
+        "nombre": "Sandshrew",
+        "tipo": ["Tierra"],
+        "vida": 50,
+        "defensa": 85,
+        "velocidad": 40,
+        "fuerza": 75,
+        "experiencia": 60
+      },
+      {
+        "numero": 28,
+        "nombre": "Sandslash",
+        "tipo": ["Tierra"],
+        "vida": 75,
+        "defensa": 110,
+        "velocidad": 65,
+        "fuerza": 100,
+        "experiencia": 158
+      },
+      {
+        "numero": 29,
+        "nombre": "Nidoran♀",
+        "tipo": ["Veneno"],
+        "vida": 55,
+        "defensa": 47,
+        "velocidad": 41,
+        "fuerza": 47,
+        "experiencia": 55
+      },
+      {
+        "numero": 30,
+        "nombre": "Nidorina",
+        "tipo": ["Veneno"],
+        "vida": 70,
+        "defensa": 62,
+        "velocidad": 56,
+        "fuerza": 62,
+        "experiencia": 128
+      },
+      {
+        "numero": 31,
+        "nombre": "Nidoqueen",
+        "tipo": ["Veneno", "Tierra"],
+        "vida": 90,
+        "defensa": 87,
+        "velocidad": 76,
+        "fuerza": 82,
+        "experiencia": 223
+      },
+      {
+        "numero": 32,
+        "nombre": "Nidoran♂",
+        "tipo": ["Veneno"],
+        "vida": 46,
+        "defensa": 57,
+        "velocidad": 50,
+        "fuerza": 57,
+        "experiencia": 55
+      },
+      {
+        "numero": 33,
+        "nombre": "Nidorino",
+        "tipo": ["Veneno"],
+        "vida": 61,
+        "defensa": 67,
+        "velocidad": 65,
+        "fuerza": 72,
+        "experiencia": 128
+      },
+      {
+        "numero": 34,
+        "nombre": "Nidoking",
+        "tipo": ["Veneno", "Tierra"],
+        "vida": 81,
+        "defensa": 92,
+        "velocidad": 85,
+        "fuerza": 102,
+        "experiencia": 223
+      },
+      {
+        "numero": 35,
+        "nombre": "Clefairy",
+        "tipo": ["Hada"],
+        "vida": 70,
+        "defensa": 48,
+        "velocidad": 35,
+        "fuerza": 45,
+        "experiencia": 113
+      },
+      {
+        "numero": 36,
+        "nombre": "Clefable",
+        "tipo": ["Hada"],
+        "vida": 95,
+        "defensa": 73,
+        "velocidad": 60,
+        "fuerza": 70,
+        "experiencia": 217
+      },
+      {
+        "numero": 37,
+        "nombre": "Vulpix",
+        "tipo": ["Fuego"],
+        "vida": 38,
+        "defensa": 41,
+        "velocidad": 65,
+        "fuerza": 41,
+        "experiencia": 60
+      },
+      {
+        "numero": 38,
+        "nombre": "Ninetales",
+        "tipo": ["Fuego"],
+        "vida": 73,
+        "defensa": 75,
+        "velocidad": 100,
+        "fuerza": 76,
+        "experiencia": 177
+      },
+      {
+        "numero": 39,
+        "nombre": "Jigglypuff",
+        "tipo": ["Normal", "Hada"],
+        "vida": 115,
+        "defensa": 20,
+        "velocidad": 20,
+        "fuerza": 45,
+        "experiencia": 95
+      },
+      {
+        "numero": 40,
+        "nombre": "Wigglytuff",
+        "tipo": ["Normal", "Hada"],
+        "vida": 140,
+        "defensa": 45,
+        "velocidad": 45,
+        "fuerza": 70,
+        "experiencia": 191
+      },
+      {
+        "numero": 41,
+        "nombre": "Zubat",
+        "tipo": ["Veneno", "Volador"],
+        "vida": 40,
+        "defensa": 35,
+        "velocidad": 55,
+        "fuerza": 45,
+        "experiencia": 49
+      },
+      {
+        "numero": 42,
+        "nombre": "Golbat",
+        "tipo": ["Veneno", "Volador"],
+        "vida": 75,
+        "defensa": 70,
+        "velocidad": 90,
+        "fuerza": 80,
+        "experiencia": 159
+      },
+      {
+        "numero": 43,
+        "nombre": "Oddish",
+        "tipo": ["Planta", "Veneno"],
+        "vida": 45,
+        "defensa": 55,
+        "velocidad": 30,
+        "fuerza": 50,
+        "experiencia": 64
+      },
+      {
+        "numero": 44,
+        "nombre": "Gloom",
+        "tipo": ["Planta", "Veneno"],
+        "vida": 60,
+        "defensa": 65,
+        "velocidad": 40,
+        "fuerza": 65,
+        "experiencia": 138
+      },
+      {
+        "numero": 45,
+        "nombre": "Vileplume",
+        "tipo": ["Planta", "Veneno"],
+        "vida": 75,
+        "defensa": 80,
+        "velocidad": 50,
+        "fuerza": 80,
+        "experiencia": 221
+      },
+      {
+        "numero": 46,
+        "nombre": "Paras",
+        "tipo": ["Bicho", "Planta"],
+        "vida": 35,
+        "defensa": 70,
+        "velocidad": 25,
+        "fuerza": 55,
+        "experiencia": 57
+      },
+      {
+        "numero": 47,
+        "nombre": "Parasect",
+        "tipo": ["Bicho", "Planta"],
+        "vida": 60,
+        "defensa": 95,
+        "velocidad": 30,
+        "fuerza": 80,
+        "experiencia": 142
+      },
+      {
+        "numero": 48,
+        "nombre": "Venonat",
+        "tipo": ["Bicho", "Veneno"],
+        "vida": 60,
+        "defensa": 55,
+        "velocidad": 45,
+        "fuerza": 40,
+        "experiencia": 61
+      },
+      {
+        "numero": 49,
+        "nombre": "Venomoth",
+        "tipo": ["Bicho", "Veneno"],
+        "vida": 70,
+        "defensa": 60,
+        "velocidad": 90,
+        "fuerza": 90,
+        "experiencia": 158
+      },
+      {
+        "numero": 50,
+        "nombre": "Diglett",
+        "tipo": ["Tierra"],
+        "vida": 10,
+        "defensa": 25,
+        "velocidad": 95,
+        "fuerza": 55,
+        "experiencia": 53
+      },
+      {
+        "numero": 51,
+        "nombre": "Dugtrio",
+        "tipo": ["Tierra"],
+        "vida": 35,
+        "defensa": 50,
+        "velocidad": 120,
+        "fuerza": 80,
+        "experiencia": 149
+      },
+      {
+        "numero": 52,
+        "nombre": "Meowth",
+        "tipo": ["Normal"],
+        "vida": 40,
+        "defensa": 35,
+        "velocidad": 90,
+        "fuerza": 45,
+        "experiencia": 58
+      },
+      {
+        "numero": 53,
+        "nombre": "Persian",
+        "tipo": ["Normal"],
+        "vida": 65,
+        "defensa": 60,
+        "velocidad": 115,
+        "fuerza": 70,
+        "experiencia": 154
+      },
+      {
+        "numero": 54,
+        "nombre": "Psyduck",
+        "tipo": ["Agua"],
+        "vida": 50,
+        "defensa": 48,
+        "velocidad": 55,
+        "fuerza": 52,
+        "experiencia": 64
+      },
+      {
+        "numero": 55,
+        "nombre": "Golduck",
+        "tipo": ["Agua"],
+        "vida": 80,
+        "defensa": 78,
+        "velocidad": 85,
+        "fuerza": 82,
+        "experiencia": 175
+      },
+      {
+        "numero": 56,
+        "nombre": "Mankey",
+        "tipo": ["Lucha"],
+        "vida": 40,
+        "defensa": 35,
+        "velocidad": 70,
+        "fuerza": 80,
+        "experiencia": 61
+      },
+      {
+        "numero": 57,
+        "nombre": "Primeape",
+        "tipo": ["Lucha"],
+        "vida": 65,
+        "defensa": 60,
+        "velocidad": 95,
+        "fuerza": 105,
+        "experiencia": 159
+      },
+      {
+        "numero": 58,
+        "nombre": "Growlithe",
+        "tipo": ["Fuego"],
+        "vida": 55,
+        "defensa": 45,
+        "velocidad": 60,
+        "fuerza": 70,
+        "experiencia": 70
+      },
+      {
+        "numero": 59,
+        "nombre": "Arcanine",
+        "tipo": ["Fuego"],
+        "vida": 90,
+        "defensa": 80,
+        "velocidad": 95,
+        "fuerza": 110,
+        "experiencia": 194
+      },
+      {
+        "numero": 60,
+        "nombre": "Poliwag",
+        "tipo": ["Agua"],
+        "vida": 40,
+        "defensa": 40,
+        "velocidad": 90,
+        "fuerza": 50,
+        "experiencia": 60
+      },
+      {
+        "numero": 61,
+        "nombre": "Poliwhirl",
+        "tipo": ["Agua"],
+        "vida": 65,
+        "defensa": 65,
+        "velocidad": 90,
+        "fuerza": 65,
+        "experiencia": 135
+      },
+      {
+        "numero": 62,
+        "nombre": "Poliwrath",
+        "tipo": ["Agua", "Lucha"],
+        "vida": 90,
+        "defensa": 95,
+        "velocidad": 70,
+        "fuerza": 85,
+        "experiencia": 230
+      },
+      {
+        "numero": 63,
+        "nombre": "Abra",
+        "tipo": ["Psíquico"],
+        "vida": 25,
+        "defensa": 15,
+        "velocidad": 90,
+        "fuerza": 20,
+        "experiencia": 62
+      },
+      {
+        "numero": 64,
+        "nombre": "Kadabra",
+        "tipo": ["Psíquico"],
+        "vida": 40,
+        "defensa": 30,
+        "velocidad": 105,
+        "fuerza": 35,
+"experiencia": 140
+},
+{
+"numero": 65,
+"nombre": "Alakazam",
+"tipo": ["Psíquico"],
+"vida": 55,
+"defensa": 45,
+"velocidad": 120,
+"fuerza": 50,
+"experiencia": 225
+},
+{
+"numero": 66,
+"nombre": "Machop",
+"tipo": ["Lucha"],
+"vida": 70,
+"defensa": 50,
+"velocidad": 35,
+"fuerza": 80,
+"experiencia": 61
+},
+{
+"numero": 67,
+"nombre": "Machoke",
+"tipo": ["Lucha"],
+"vida": 80,
+"defensa": 70,
+"velocidad": 45,
+"fuerza": 100,
+"experiencia": 142
+},
+{
+"numero": 68,
+"nombre": "Machamp",
+"tipo": ["Lucha"],
+"vida": 90,
+"defensa": 80,
+"velocidad": 55,
+"fuerza": 130,
+"experiencia": 227
+},
+{
+"numero": 69,
+"nombre": "Bellsprout",
+"tipo": ["Planta", "Veneno"],
+"vida": 50,
+"defensa": 35,
+"velocidad": 40,
+"fuerza": 75,
+"experiencia": 60
+},
+{
+"numero": 70,
+"nombre": "Weepinbell",
+"tipo": ["Planta", "Veneno"],
+"vida": 65,
+"defensa": 50,
+"velocidad": 55,
+"fuerza": 90,
+"experiencia": 137
+},
+{
+"numero": 71,
+"nombre": "Victreebel",
+"tipo": ["Planta", "Veneno"],
+"vida": 80,
+"defensa": 65,
+"velocidad": 70,
+"fuerza": 105,
+"experiencia": 216
+},
+{
+"numero": 72,
+"nombre": "Tentacool",
+"tipo": ["Agua", "Veneno"],
+"vida": 40,
+"defensa": 35,
+"velocidad": 70,
+"fuerza": 40,
+"experiencia": 67
+},
+{
+"numero": 73,
+"nombre": "Tentacruel",
+"tipo": ["Agua", "Veneno"],
+"vida": 80,
+"defensa": 65,
+"velocidad": 100,
+"fuerza": 70,
+"experiencia": 180
+},
+{
+"numero": 74,
+"nombre": "Geodude",
+"tipo": ["Roca", "Tierra"],
+"vida": 40,
+"defensa": 100,
+"velocidad": 20,
+"fuerza": 80,
+"experiencia": 60
+},
+{
+"numero": 75,
+"nombre": "Graveler",
+"tipo": ["Roca", "Tierra"],
+"vida": 55,
+"defensa": 115,
+"velocidad": 35,
+"fuerza": 95,
+"experiencia": 137
+},
+{
+"numero": 76,
+"nombre": "Golem",
+"tipo": ["Roca", "Tierra"],
+"vida": 80,
+"defensa": 130,
+"velocidad": 45,
+"fuerza": 120,
+"experiencia": 218
+},
+{
+"numero": 77,
+"nombre": "Ponyta",
+"tipo": ["Fuego"],
+"vida": 50,
+"defensa": 55,
+"velocidad": 90,
+"fuerza": 85,
+"experiencia": 82
+},
+{
+"numero": 78,
+"nombre": "Rapidash",
+"tipo": ["Fuego"],
+"vida": 65,
+"defensa": 70,
+"velocidad": 105,
+"fuerza": 100,
+"experiencia": 175
+},
+{
+"numero": 79,
+"nombre": "Slowpoke",
+"tipo": ["Agua", "Psíquico"],
+"vida": 90,
+"defensa": 65,
+"velocidad": 15,
+"fuerza": 65,
+"experiencia": 63
+},
+{
+"numero": 80,
+"nombre": "Slowbro",
+"tipo": ["Agua", "Psíquico"],
+"vida": 95,
+"defensa": 110,
+"velocidad": 30,
+"fuerza": 75,
+"experiencia": 172
+},
+{
+"numero": 81,
+"nombre": "Magnemite",
+"tipo": ["Eléctrico", "Acero"],
+"vida": 25,
+"defensa": 70,
+"velocidad": 45,
+"fuerza": 35,
+"experiencia": 65
+},
+{
+"numero": 82,
+"nombre": "Magneton",
+"tipo": ["Eléctrico", "Acero"],
+"vida": 50,
+"defensa": 95,
+"velocidad": 70,
+"fuerza": 60,
+"experiencia": 163
+},
+{
+"numero": 83,
+"nombre": "Farfetch'd",
+"tipo": ["Normal", "Volador"],
+"vida": 52,
+"defensa": 55,
+"velocidad": 60,
+"fuerza": 65,
+"experiencia": 123
+},
+{
+"numero": 84,
+"nombre": "Doduo",
+"tipo": ["Normal", "Volador"],
+"vida": 35,
+"defensa": 35,
+"velocidad": 75,
+"fuerza": 85,
+"experiencia": 62
+},
+{
+"numero": 85,
+"nombre": "Dodrio",
+"tipo": ["Normal", "Volador"],
+"vida": 60,
+"defensa": 70,
+"velocidad": 110,
+"fuerza": 110,
+"experiencia": 161
+},
+{
+"numero": 86,
+"nombre": "Seel",
+"tipo": ["Agua"],
+"vida": 65,
+"defensa": 55,
+"velocidad": 45,
+"fuerza": 45,
+"experiencia": 65
+},
+{
+"numero": 87,
+"nombre": "Dewgong",
+"tipo": ["Agua", "Hielo"],
+"vida": 90,
+"defensa": 80,
+"velocidad": 70,
+"fuerza": 70,
+"experiencia": 166
+},
+{
+"numero": 88,
+"nombre": "Grimer",
+"tipo": ["Veneno"],
+"vida": 80,
+"defensa": 50,
+"velocidad": 25,
+"fuerza": 80,
+"experiencia": 65
+},
+{
+"numero": 89,
+"nombre": "Muk",
+"tipo": ["Veneno"],
+"vida": 105,
+"defensa": 75,
+"velocidad": 50,
+"fuerza": 105,
+"experiencia": 175
+},
+{
+"numero": 90,
+"nombre": "Shellder",
+"tipo": ["Agua"],
+"vida": 30,
+"defensa": 100,
+"velocidad": 40,
+"fuerza": 65,
+"experiencia": 61
+},
+{
+"numero": 91,
+"nombre": "Cloyster",
+"tipo": ["Agua", "Hielo"],
+"vida": 50,
+"defensa": 180,
+"velocidad": 70,
+"fuerza": 95,
+"experiencia": 184
+},
+{
+"numero": 92,
+"nombre": "Gastly",
+"tipo": ["Fantasma", "Veneno"],
+"vida": 30,
+"defensa": 35,
+"velocidad": 80,
+"fuerza": 35,
+"experiencia": 62
+},
+{
+"numero": 93,
+"nombre": "Haunter",
+"tipo": ["Fantasma", "Veneno"],
+"vida": 45,
+"defensa": 50,
+"velocidad": 95,
+"fuerza": 50,
+"experiencia": 142
+},
+{
+"numero": 94,
+"nombre": "Gengar",
+"tipo": ["Fantasma", "Veneno"],
+"vida": 60,
+"defensa": 65,
+"velocidad": 110,
+"fuerza": 65,
+"experiencia": 225
+},
+{
+"numero": 95,
+"nombre": "Onix",
+"tipo": ["Roca", "Tierra"],
+"vida": 35,
+"defensa": 160,
+"velocidad": 70,
+"fuerza": 45,
+"experiencia": 77
+},
+{
+"numero": 96,
+"nombre": "Drowzee",
+"tipo": ["Psíquico"],
+"vida": 60,
+"defensa": 48,
+"velocidad": 42,
+"fuerza": 45,
+"experiencia": 66
+},
+{
+"numero": 97,
+"nombre": "Hypno",
+"tipo": ["Psíquico"],
+"vida": 85,
+"defensa": 73,
+"velocidad": 67,
+"fuerza": 70,
+"experiencia": 169
+},
+{
+"numero": 98,
+"nombre": "Krabby",
+"tipo": ["Agua"],
+"vida": 30,
+"defensa": 90,
+"velocidad": 50,
+"fuerza": 105,
+"experiencia": 65
+},
+{
+"numero": 99,
+"nombre": "Kingler",
+"tipo": ["Agua"],
+"vida": 55,
+"defensa": 115,
+"velocidad": 75,
+"fuerza": 130,
+"experiencia": 166
+},
+{
+"numero": 100,
+"nombre": "Voltorb",
+"tipo": ["Eléctrico"],
+"vida": 40,
+"defensa": 30,
+"velocidad": 100,
+"fuerza": 55,
+"experiencia": 66
+},
+{
+"numero": 101,
+"nombre": "Electrode",
+"tipo": ["Eléctrico"],
+"vida": 60,
+"defensa": 50,
+"velocidad": 150,
+"fuerza": 80,
+"experiencia": 172
+},
+{
+"numero": 102,
+"nombre": "Exeggcute",
+"tipo": ["Planta", "Psíquico"],
+"vida": 60,
+"defensa": 40,
+"velocidad": 40,
+"fuerza": 60,
+"experiencia": 65
+},
+{
+"numero": 103,
+"nombre": "Exeggutor",
+"tipo": ["Planta", "Psíquico"],
+"vida": 95,
+"defensa": 85,
+"velocidad": 55,
+"fuerza": 125,
+"experiencia": 182
+},
+{
+"numero": 104,
+"nombre": "Cubone",
+"tipo": ["Tierra"],
+"vida": 50,
+"defensa": 95,
+"velocidad": 35,
+"fuerza": 50,
+"experiencia": 64
+},
+{
+"numero": 105,
+"nombre": "Marowak",
+"tipo": ["Tierra"],
+"vida": 60,
+"defensa": 110,
+"velocidad": 45,
+"fuerza": 80,
+"experiencia": 149
+},
+{
+"numero": 106,
+"nombre": "Hitmonlee",
+"tipo": ["Lucha"],
+"vida": 50,
+"defensa": 53,
+"velocidad": 87,
+"fuerza": 120,
+"experiencia": 159
+},
+{
+"numero": 107,
+"nombre": "Hitmonchan",
+"tipo": ["Lucha"],
+"vida": 50,
+"defensa": 79,
+"velocidad": 76,
+"fuerza": 105,
+"experiencia": 159
+},
+{
+"numero": 108,
+"nombre": "Lickitung",
+"tipo": ["Normal"],
+"vida": 90,
+"defensa": 75,
+"velocidad": 30,
+"fuerza": 60,
+"experiencia": 77
+},
+{
+"numero": 109,
+"nombre": "Koffing",
+"tipo": ["Veneno"],
+"vida": 40,
+"defensa": 95,
+"velocidad": 35,
+"fuerza": 60,
+"experiencia": 68
+},
+{
+"numero": 110,
+"nombre": "Weezing",
+"tipo": ["Veneno"],
+"vida": 65,
+"defensa": 120,
+"velocidad": 60,
+"fuerza": 90,
+"experiencia": 172
+},
+{
+"numero": 111,
+"nombre": "Rhyhorn",
+"tipo": ["Tierra", "Roca"],
+"vida": 80,
+"defensa": 85,
+"velocidad": 25,
+"fuerza": 85,
+"experiencia": 69
+},
+{
+"numero": 112,
+"nombre": "Rhydon",
+"tipo": ["Tierra", "Roca"],
+"vida": 105,
+"defensa": 130,
+"velocidad": 40,
+"fuerza": 130,
+"experiencia": 170
+},
+{
+"numero": 113,
+"nombre": "Chansey",
+"tipo": ["Normal"],
+"vida": 250,
+"defensa": 5,
+"velocidad": 50,
+"fuerza": 5,
+"experiencia": 395
+},
+{
+"numero": 114,
+"nombre": "Tangela",
+"tipo": ["Planta"],
+"vida": 65,
+"defensa": 115,
+"velocidad": 60,
+"fuerza": 55,
+"experiencia": 87
+},
+{
+"numero": 115,
+"nombre": "Kangaskhan",
+"tipo": ["Normal"],
+"vida": 105,
+"defensa": 95,
+"velocidad": 90,
+"fuerza": 95,
+"experiencia": 172
+},
+{
+"numero": 116,
+"nombre": "Horsea",
+"tipo": ["Agua"],
+"vida": 30,
+"defensa": 70,
+"velocidad": 60,
+"fuerza": 40,
+"experiencia": 59
+},
+{
+"numero": 117,
+"nombre": "Seadra",
+"tipo": ["Agua"],
+"vida": 55,
+"defensa": 95,
+"velocidad": 85,
+"fuerza": 65,
+"experiencia": 154
+},
+{
+"numero": 118,
+"nombre": "Goldeen",
+"tipo": ["Agua"],
+"vida": 45,
+"defensa": 50,
+"velocidad": 63,
+"fuerza": 67,
+"experiencia": 64
+},
+{
+"numero": 119,
+"nombre": "Seaking",
+"tipo": ["Agua"],
+"vida": 80,
+"defensa": 80,
+"velocidad": 68,
+"fuerza": 92,
+"experiencia": 158
+},
+{
+"numero": 120,
+"nombre": "Staryu",
+"tipo": ["Agua"],
+"vida": 30,
+"defensa": 45,
+"velocidad": 85,
+"fuerza": 45,
+"experiencia": 68
+},
+{
+"numero": 121,
+"nombre": "Starmie",
+"tipo": ["Agua", "Psíquico"],
+"vida": 60,
+"defensa": 70,
+"velocidad": 115,
+"fuerza": 75,
+"experiencia": 182
+},
+{
+"numero": 122,
+"nombre": "Mr. Mime",
+"tipo": ["Psíquico", "Hada"],
+"vida": 40,
+"defensa": 45,
+"velocidad": 90,
+"fuerza": 45,
+"experiencia": 136
+},
+{
+"numero": 123,
+"nombre": "Scyther",
+"tipo": ["Bicho", "Volador"],
+"vida": 70,
+"defensa": 80,
+"velocidad": 105,
+"fuerza": 110,
+"experiencia": 100
+},
+{
+"numero": 124,
+"nombre": "Jynx",
+"tipo": ["Hielo", "Psíquico"],
+"vida": 65,
+"defensa": 35,
+"velocidad": 95,
+"fuerza": 50,
+"experiencia": 159
+},
+{
+"numero": 125,
+"nombre": "Electabuzz",
+"tipo": ["Eléctrico"],
+"vida": 65,
+"defensa": 57,
+"velocidad": 105,
+"fuerza": 83,
+"experiencia": 172
+},
+{
+"numero": 126,
+"nombre": "Magmar",
+"tipo": ["Fuego"],
+"vida": 65,
+"defensa": 57,
+"velocidad": 93,
+"fuerza": 83,
+"experiencia": 173
+},
+{
+"numero": 127,
+"nombre": "Pinsir",
+"tipo": ["Bicho"],
+"vida": 65,
+"defensa": 100,
+"velocidad": 85,
+"fuerza": 125,
+"experiencia": 175
+},
+{
+"numero": 128,
+"nombre": "Tauros",
+"tipo": ["Normal"],
+"vida": 75,
+"defensa": 95,
+"velocidad": 110,
+"fuerza": 100,
+"experiencia": 172
+},
+{
+"numero": 129,
+"nombre": "Magikarp",
+"tipo": ["Agua"],
+"vida": 20,
+"defensa": 55,
+"velocidad": 80,
+"fuerza": 10,
+"experiencia": 20
+},
+{
+"numero": 130,
+"nombre": "Gyarados",
+"tipo": ["Agua", "Volador"],
+"vida": 95,
+"defensa": 79,
+"velocidad": 81,
+"fuerza": 125,
+"experiencia": 214
+},
+{
+"numero": 131,
+"nombre": "Lapras",
+"tipo": ["Agua", "Hielo"],
+"vida": 130,
+"defensa": 80,
+"velocidad": 60,
+"fuerza": 85,
+"experiencia": 219
+},
+{
+"numero": 132,
+"nombre": "Ditto",
+"tipo": ["Normal"],
+"vida": 48,
+"defensa": 48,
+"velocidad": 48,
+"fuerza": 48,
+"experiencia": 101
+},
+{
+"numero": 133,
+"nombre": "Eevee",
+"tipo": ["Normal"],
+"vida": 55,
+"defensa": 50,
+"velocidad": 55,
+"fuerza": 55,
+"experiencia": 65
+},
+{
+"numero": 134,
+"nombre": "Vaporeon",
+"tipo": ["Agua"],
+"vida": 130,
+"defensa": 60,
+"velocidad": 65,
+"fuerza": 65,
+"experiencia": 184
+},
+{
+"numero": 135,
+"nombre": "Jolteon",
+"tipo": ["Eléctrico"],
+"vida": 65,
+"defensa": 60,
+"velocidad": 130,
+"fuerza": 65,
+"experiencia": 184
+},
+{
+"numero": 136,
+"nombre": "Flareon",
+"tipo": ["Fuego"],
+"vida": 65,
+"defensa": 60,
+"velocidad": 65,
+"fuerza": 130,
+"experiencia": 184
+},
+{
+"numero": 137,
+"nombre": "Porygon",
+"tipo": ["Normal"],
+"vida": 65,
+"defensa": 70,
+"velocidad": 40,
+"fuerza": 60,
+"experiencia": 79
+},
+{
+"numero": 138,
+"nombre": "Omanyte",
+"tipo": ["Roca", "Agua"],
+"vida": 35,
+"defensa": 100,
+"velocidad": 35,
+"fuerza": 40,
+"experiencia": 71
+},
+{
+"numero": 139,
+"nombre": "Omastar",
+"tipo": ["Roca", "Agua"],
+"vida": 70,
+"defensa": 125,
+"velocidad": 55,
+"fuerza": 60,
+"experiencia": 173
+},
+{
+"numero": 140,
+"nombre": "Kabuto",
+"tipo": ["Roca", "Agua"],
+"vida": 30,
+"defensa": 80,
+"velocidad": 55,
+"fuerza": 80,
+"experiencia": 71
+},
+{
+"numero": 141,
+"nombre": "Kabutops",
+"tipo": ["Roca", "Agua"],
+"vida": 60,
+"defensa": 115,
+"velocidad": 80,
+"fuerza": 115,
+"experiencia": 173
+},
+{
+"numero": 142,
+"nombre": "Aerodactyl",
+"tipo": ["Roca", "Volador"],
+"vida": 80,
+"defensa": 105,
+"velocidad": 130,
+"fuerza": 135,
+"experiencia": 180
+},
+{
+"numero": 143,
+"nombre": "Snorlax",
+"tipo": ["Normal"],
+"vida": 160,
+"defensa": 65,
+"velocidad": 30,
+"fuerza": 110,
+"experiencia": 189
+},
+{
+"numero": 144,
+"nombre": "Articuno",
+"tipo": ["Hielo", "Volador"],
+"vida": 90,
+"defensa": 85,
+"velocidad": 85,
+"fuerza": 100,
+"experiencia": 261
+},
+{
+"numero": 145,
+"nombre": "Zapdos",
+"tipo": ["Eléctrico", "Volador"],
+"vida": 90,
+"defensa": 90,
+"velocidad": 100,
+"fuerza": 90,
+"experiencia": 261
+},
+{
+"numero": 146,
+"nombre": "Moltres",
+"tipo": ["Fuego", "Volador"],
+"vida": 90,
+"defensa": 90,
+"velocidad": 90,
+"fuerza": 100,
+"experiencia": 261
+},
+{
+"numero": 147,
+"nombre": "Dratini",
+"tipo": ["Dragón"],
+"vida": 41,
+"defensa": 64,
+"velocidad": 50,
+"fuerza": 64,
+"experiencia": 60
+},
+{
+"numero": 148,
+"nombre": "Dragonair",
+"tipo": ["Dragón"],
+"vida": 61,
+"defensa": 84,
+"velocidad": 70,
+"fuerza": 84,
+"experiencia": 147
+},
+{
+"numero": 149,
+"nombre": "Dragonite",
+"tipo": ["Dragón", "Volador"],
+"vida": 91,
+"defensa": 134,
+"velocidad": 80,
+"fuerza": 134,
+"experiencia": 270
+},
+{
+"numero": 150,
+"nombre": "Mewtwo",
+"tipo": ["Psíquico"],
+"vida": 106,
+"defensa": 90,
+"velocidad": 130,
+"fuerza": 110,
+"experiencia": 306
+},
+{
+"numero": 151,
+"nombre": "Mew",
+"tipo": ["Psíquico"],
+"vida": 100,
+"defensa": 100,
+"velocidad": 100,
+"fuerza": 100,
+"experiencia": 270
+}
+]
+}
+       
+  

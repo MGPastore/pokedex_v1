@@ -1,0 +1,14 @@
+{
+    "pokemon": [
+      {
+    "numero": 151,
+    "nombre": "Mew",
+    "tipo": ["Psíquico"],
+    "vida": 100,
+    "defensa": 100,
+    "velocidad": 100,
+    "fuerza": 100,
+    "experiencia": 270
+    }
+    ]
+    }

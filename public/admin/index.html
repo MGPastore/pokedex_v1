@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://kit.fontawesome.com/xxxxxxxxxx.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <header>
+    <h1>Administrador</h1>
+    <div class="menu-btn">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    <nav class="sidebar">
+      <div class="close-btn">
+        <i class="fas fa-times"></i>
+      </div>
+      <ul>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Estadísticas</a></li>
+        <li><a href="#">Configuración</a></li>
+        <li><a href="#">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container">
+    <section class="panel">
+      <h2>Resumen</h2>
+      <div class="card">
+        <i class="fas fa-users"></i>
+        <h3>Usuarios registrados</h3>
+        <p class="value">1,234</p>
+      </div>
+      <div class="card">
+        <i class="fas fa-shopping-cart"></i>
+        <h3>Ventas</h3>
+        <p class="value">$10,345</p>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>Tabla de datos</h2>
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Rol</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>John Doe</td>
+            <td>john@example.com</td>
+            <td>Admin</td>
+          </tr>
+          <tr>
+            <td>Jane Smith</td>
+            <td>jane@example.com</td>
+            <td>User</td>
+          </tr>
+          <!-- Agrega más filas según sea necesario -->
+        </tbody>
+      </table>
+    </section>
+  </div>
+
+  <footer>
+    <p>Derechos de autor &copy; 2023</p>
+  </footer>
+
+  <script >// Toggle para mostrar/ocultar el menú y cambiar el ícono del botón
+    document.querySelector('.menu-btn').addEventListener('click', function () {
+      this.classList.toggle('active');
+      document.querySelector('.sidebar').classList.toggle('active');
+    });
+    
+    // Cerrar el menú en dispositivos móviles al hacer clic en el botón de cierre
+    document.querySelector('.close-btn').addEventListener('click', function () {
+      document.querySelector('.sidebar').classList.remove('active');
+    });
+    </script>
+</body>
+</html>
