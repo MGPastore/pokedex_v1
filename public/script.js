@@ -21,7 +21,7 @@ class Pokedex {
   }
 
   fetchPokemonData() {
-    fetch("http://localhost:3000/pokemon")
+    fetch("/pokemon")
       .then(response => response.json())
       .then(data => {
         data.pokemon.forEach(pokemon => {
